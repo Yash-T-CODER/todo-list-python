@@ -1,1 +1,1 @@
-# todo-list-python
+This is a simple Python console-based To-Do List application. It allows users to add tasks, remove tasks, and exit the program. The project demonstrates basic Python concepts like user input, list handling, and conditional statements. Ideal for beginners, it can be extended with features like continuous task management, file saving, and task prioritization.
